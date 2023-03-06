@@ -1,3 +1,3 @@
 # Portfolio
 
-Some Details of my introduction using HTML and CSS
+Some details introduction of me using HTML and CSS
